@@ -1,0 +1,35 @@
+#body{
+  background-color: #852036;
+}
+
+#header h1 {
+  text-align: center;
+  color: #e39162;
+  margin-top: 20px;
+  font-family: sans-serif;
+
+}
+
+#header{
+  border: solid;
+  border-width: medium;
+  border-color: #e39162;
+}
+
+#photos {
+  padding-top: 30px;
+  text-align:center;
+
+}
+
+
+#text p{
+  padding-top: 10px;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+/* .blueText {
+    color: blue
+} */

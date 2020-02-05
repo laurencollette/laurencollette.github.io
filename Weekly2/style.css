@@ -1,0 +1,38 @@
+#header h1 {
+  text-align: center;
+  color: ##852036;
+  margin-top: 20px;
+  font-family: sans-serif;
+
+}
+
+#header{
+  border: solid;
+  border-width: medium;
+  border-color: #852036;
+}
+
+#photos {
+  padding-top: 30px;
+  text-align:center;
+
+}
+
+#text h3{
+  padding-top: 10px;
+  text-align: center;
+  color: #852036;
+  font-family: sans-serif;
+  font-weight: bold;
+
+}
+#text p{
+  padding-top: 10px;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+/* .blueText {
+    color: blue
+} */
